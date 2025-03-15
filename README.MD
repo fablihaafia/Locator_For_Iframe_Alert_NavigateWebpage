@@ -122,11 +122,6 @@ mvn test
 
 ---
 
-## Contributing
-
-If you want to contribute to this project, feel free to fork the repository, make improvements or fix bugs, and submit a pull request. Please ensure that your changes do not break existing tests and that all tests pass before submitting the pull request.
-
----
 
 ## Conclusion
 
